@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.spec
+publish/*.exe
+publish/*.dll
+publish/*.pyd

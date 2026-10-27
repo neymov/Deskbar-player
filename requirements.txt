@@ -1,0 +1,8 @@
+Pillow>=13.0.0
+pystray>=0.19.5
+PyInstaller>=6.22.0
+winrt-Windows.Media.Control>=4.0.0
+winrt-Windows.Media>=4.0.0
+winrt-Windows.Storage>=4.0.0
+winrt-Windows.Storage.Streams>=4.0.0
+winrt-Windows.Foundation>=4.0.0
