@@ -1,7 +1,7 @@
 # DeskBar
 
 Compact Windows Now Playing controller inspired by the supplied 521 × 523 reference image. The application uses a per-pixel-alpha glass window rendered with Pillow, Win32 single-instance/tray/startup integration, and Windows Global System Media Transport Controls (GSMTC). The window corners are transparent and the glass card lets the desktop wallpaper show through.
-![Описание фото](images/player.png)
+![Скриншот DeskBar](player.png)
 
 ## Features
 
